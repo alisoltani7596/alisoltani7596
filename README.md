@@ -33,13 +33,6 @@ I'm a PhD candidate in Electrical and Computer Engineering at the **University o
     <td width="50%"><a href="https://github.com/alisoltani7596/TrapCounter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-trapcounter-dark.svg"><img alt="TrapCounter / DTCFT dataset" src="assets/card-trapcounter-light.svg" width="100%"></picture></a></td>
     <td width="50%"><a href="https://github.com/alisoltani7596/IHARD46"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ihard46-dark.svg"><img alt="IHARD46" src="assets/card-ihard46-light.svg" width="100%"></picture></a></td>
   </tr>
-  <tr>
-    <td width="50%" valign="top"><a href="https://alisoltani7596.github.io/cartograph/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cartograph-dark.svg"><img alt="Cartograph" src="assets/card-cartograph-light.svg" width="100%"></picture></a></td>
-    <td width="50%" valign="top">
-      <p><b><a href="https://alisoltani7596.github.io/cartograph/">Open the app</a></b> &nbsp;·&nbsp; <a href="https://github.com/alisoltani7596/cartograph">source</a></p>
-      <p>Upload receipt photos, screenshots or PDFs and get a dashboard of staples, price changes and where the money goes. Every receipt is reconciled against its printed total, and accuracy is reported once on a held-out test set. Receipts never leave the browser.</p>
-    </td>
-  </tr>
 </table>
 
 ## Publications
@@ -85,6 +78,13 @@ Things I build outside the lab.
     <td width="50%" valign="top">
       <p><b><a href="https://alisoltani7596.github.io/two-seats/">Open the app</a></b> &nbsp;·&nbsp; <a href="https://github.com/alisoltani7596/two-seats">source</a></p>
       <p>Picking something to watch together isn't a ranking problem: averaging two tastes gives a bland middle. Two Seats scores a title as the mean of both fits <i>minus</i> how far apart they are, so what one of you would love and the other hate sinks below what you both merely like. Runs entirely in the browser over 14,000 titles from Wikidata.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://alisoltani7596.github.io/cartograph/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cartograph-dark.svg"><img alt="Cartograph" src="assets/card-cartograph-light.svg" width="100%"></picture></a></td>
+    <td width="50%" valign="top">
+      <p><b><a href="https://alisoltani7596.github.io/cartograph/">Open the app</a></b> &nbsp;·&nbsp; <a href="https://github.com/alisoltani7596/cartograph">source</a></p>
+      <p>Upload receipt photos, screenshots or PDFs and get a dashboard of staples, price changes and where the money goes. Every receipt is reconciled against its printed total, and accuracy is reported once on a held-out test set. Receipts never leave the browser.</p>
     </td>
   </tr>
 </table>
