@@ -74,11 +74,10 @@ Things I build outside the lab.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/alisoltani7596/two-seats"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-twoseats-dark.svg"><img alt="Two Seats" src="assets/card-twoseats-light.svg" width="100%"></picture></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/alisoltani7596/two-seats"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-twoseats-dark.svg"><img alt="Two Seats" src="assets/card-twoseats-light.svg" width="100%"></picture></a></td>
     <td width="50%" valign="top">
       <p><b><a href="https://alisoltani7596.github.io/two-seats/">Open the app</a></b> &nbsp;·&nbsp; <a href="https://github.com/alisoltani7596/two-seats">source</a></p>
-      <p>Picking something to watch with another person is not a ranking problem. A top-rated list suits neither of you, and averaging two tastes gives a bland middle nobody asked for. Two Seats scores a title as the mean of both fits <i>minus</i> how far apart they are, so something one of you would love and the other would hate ranks below something you both merely like.</p>
-      <p>Everything runs in the browser: ratings in local storage, a share link that packs one person's ratings into the URL fragment so two phones can combine them, and an optional on-device language model for plain-English search. The 14,000-title dataset is built from Wikidata rather than IMDb, whose terms do not cover republishing derived data.</p>
+      <p>Picking something to watch together isn't a ranking problem: averaging two tastes gives a bland middle. Two Seats scores a title as the mean of both fits <i>minus</i> how far apart they are, so what one of you would love and the other hate sinks below what you both merely like. Runs entirely in the browser over 14,000 titles from Wikidata.</p>
     </td>
   </tr>
 </table>
