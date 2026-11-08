@@ -68,6 +68,21 @@ Catch and compliance monitoring on commercial fishing vessels. My research on tr
 **Applied AI Specialist** · Wireless PnC<br>
 Computer vision for drones and robots at a Victoria wireless-charging startup (2026 onward).
 
+## Side projects
+
+Things I build outside the lab.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/alisoltani7596/two-seats"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-twoseats-dark.svg"><img alt="Two Seats" src="assets/card-twoseats-light.svg" width="100%"></picture></a></td>
+    <td width="50%" valign="top">
+      <p><b><a href="https://alisoltani7596.github.io/two-seats/">Open the app</a></b> &nbsp;·&nbsp; <a href="https://github.com/alisoltani7596/two-seats">source</a></p>
+      <p>Picking something to watch with another person is not a ranking problem. A top-rated list suits neither of you, and averaging two tastes gives a bland middle nobody asked for. Two Seats scores a title as the mean of both fits <i>minus</i> how far apart they are, so something one of you would love and the other would hate ranks below something you both merely like.</p>
+      <p>Everything runs in the browser: ratings in local storage, a share link that packs one person's ratings into the URL fragment so two phones can combine them, and an optional on-device language model for plain-English search. The 14,000-title dataset is built from Wikidata rather than IMDb, whose terms do not cover republishing derived data.</p>
+    </td>
+  </tr>
+</table>
+
 ## Toolbox
 
 <table>

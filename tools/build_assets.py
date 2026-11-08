@@ -134,6 +134,11 @@ PROJECTS = {
                            "with 46 action classes, built to study long-tail",
                            "action recognition."],
                     tags=["Action recognition", "Long tail"]),
+    "twoseats": dict(kind="SIDE PROJECT  ·  WEB APP", title="Two Seats", c="c3",
+                     lines=["Two people rate films and series; it ranks what",
+                            "survives both tastes rather than averaging them.",
+                            "Static site, no account, no server, no API key."],
+                     tags=["Vanilla JS", "Wikidata", "WebGPU", "CC0 data"]),
 }
 
 
