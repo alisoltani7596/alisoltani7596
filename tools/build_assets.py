@@ -139,6 +139,11 @@ PROJECTS = {
                             "survives both tastes rather than averaging them.",
                             "Static site, no account, no server, no API key."],
                      tags=["Vanilla JS", "Wikidata", "WebGPU", "CC0 data"]),
+    "cartograph": dict(kind="WEB APP  ·  RECEIPT PARSING", title="Cartograph", c="c1",
+                       lines=["Receipt photos and PDFs become a spending map.",
+                              "Claude or in-browser OCR, checked by reconciliation;",
+                              "100% item F1 on a held-out test set. No server."],
+                       tags=["TypeScript", "Claude API", "Tesseract", "Eval in CI"]),
 }
 
 
